@@ -1,1 +1,1 @@
-web: gunicorn memento.wsgi
+web: gunicorn mementomortem.wsgi
